@@ -720,5 +720,7 @@
   "top_do_es_not_exit": "§cO {0} top não existe!",
   "top_cleaned": "§aO {0} top foi apagado!",
 
-  "mystery_crate_text": "§bCaixa misteriosa \n §c{0} Caixas Disponíveis! \n §l§eCLIQUE COM O DIREITO"
+  "mystery_crate_text": "§bCaixa misteriosa \n §c{0} Caixas Disponíveis! \n §l§eCLIQUE COM O DIREITO",
+
+  "top_amount_changes": "§aO valor da parte superior de {0} foi alterado para {1}!"
 }

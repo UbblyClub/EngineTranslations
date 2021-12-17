@@ -709,5 +709,7 @@
   "top_do_es_not_exit": "§c¡El top {0} no existe!",
   "top_cleaned": "§a¡El top {0} fue limpiado!",
 
-  "mystery_crate_text": "§bCaja misteriosa \n §c{0} Cajas Disponibles! \n §l§eCLIC DERECHO"
+  "mystery_crate_text": "§bCaja misteriosa \n §c{0} Cajas Disponibles! \n §l§eCLIC DERECHO",
+
+  "top_amount_changes": "§a¡El monto del top de {0} fue cambiado a {1}!"
 }
