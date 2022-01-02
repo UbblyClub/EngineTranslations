@@ -722,5 +722,14 @@
 
   "mystery_crate_text": "§bCaixa misteriosa \n §c{0} Caixas Disponíveis! \n §l§eCLIQUE COM O DIREITO",
 
-  "top_amount_changes": "§aO valor da parte superior de {0} foi alterado para {1}!"
+  "top_amount_changes": "§aO valor da parte superior de {0} foi alterado para {1}!",
+
+  "toggle_bossbar": "Dirija a barra do chefe",
+  "toggle_scoreboard": "Dirija o placar",
+  "toggle_clicks_per_second": "Gerenciar o contador CPS",
+  "toggle_tells": "Dirija o Tells",
+  "toggle_staff_chat": "Dirija o Staff Chat",
+  "you_showed": "§aVocê mostrou o sucesso de {0}!",
+  "you_hid": "§aEle escondeu com sucesso o {0}!",
+  "change_server": "§o§7Recomendamos alterar o servidor para fazer o upload das alterações..."
 }

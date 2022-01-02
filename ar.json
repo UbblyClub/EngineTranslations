@@ -726,5 +726,14 @@
 
   "mystery_crate_text": "§bMystery Crate \n §c{0} Boxes Available! \n §l§eRIGHT CLICK",
 
-  "top_amount_changes": "§aThe top amount of {0} has been changed to {1}!"
+  "top_amount_changes": "§aThe top amount of {0} has been changed to {1}!",
+
+  "toggle_bossbar": "Toggle Bossbar",
+  "toggle_scoreboard": "Toggle Scoreboard",
+  "toggle_clicks_per_second": "Toggle the CPS counter",
+  "toggle_tells": "Toggle Tells",
+  "toggle_staff_chat": "Toggle Staff Chat",
+  "you_showed": "§aYou showed the {0} success!",
+  "you_hid": "§aYou hid the {0} success!",
+  "change_server": "§o§7We recommend changing the server to upload the changes..."
 }

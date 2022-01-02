@@ -711,5 +711,14 @@
 
   "mystery_crate_text": "§bCaja misteriosa \n §c{0} Cajas Disponibles! \n §l§eCLIC DERECHO",
 
-  "top_amount_changes": "§a¡El monto del top de {0} fue cambiado a {1}!"
+  "top_amount_changes": "§a¡El monto del top de {0} fue cambiado a {1}!",
+
+  "toggle_bossbar": "Maneja la barra jefe",
+  "toggle_scoreboard": "Maneja el marcador",
+  "toggle_clicks_per_second": "Maneja el contador de CPS",
+  "toggle_tells": "Maneja los Tells",
+  "toggle_staff_chat": "Maneja el Chat del Personal",
+  "you_showed": "§a¡Mostró el {0} éxitosamente!",
+  "you_hid": "§a¡Ocultó el {0} éxitosamente!",
+  "change_server": "§o§7Recomendamos cambiar el servidor para cargar los cambios..."
 }
