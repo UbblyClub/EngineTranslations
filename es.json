@@ -720,5 +720,16 @@
   "toggle_staff_chat": "Maneja el Chat del Personal",
   "you_showed": "§a¡Mostró el {0} éxitosamente!",
   "you_hid": "§a¡Ocultó el {0} éxitosamente!",
-  "change_server": "§o§7Recomendamos cambiar el servidor para cargar los cambios..."
+  "change_server": "§o§7Recomendamos cambiar el servidor para cargar los cambios...",
+
+  "checkpoint": "§e§lControl\n§b{0}",
+  "parkour_challenge_end": "§e§lDesafío Parkour\n§l§cFin",
+  "parkour_challenge_start": "§e§lDesafío Parkour\n§l§aInicio",
+  "parkour_challenge_finished": "§a¡Felicitaciones por completar el parkour! ¡Terminaste en §e{0}§a! ¡Vuelve a intentarlo para obtener un registro aún mejor!",
+  "you_reached_parkour_checkpoint": "§bLlegó al §ePunto de control #{0}§a.",
+  "checkpoints_taken": "§bPuntos de control tomados §l{0}",
+  "reset_parkour_checkpoints": "§cRestableciste tus puntos de control de parkour",
+  "citem_go_to_the_last_checkpoint": "§r§6Ir al Ultimo Punto de Control\n§7Clic Derecho",
+  "citem_exit_parkour": "§r§cSalir\n§7Clic Derecho",
+  "citem_go_to_the_start": "§r§dIr al Inicio\n§7Clic Derecho"
 }
