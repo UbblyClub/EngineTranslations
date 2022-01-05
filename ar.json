@@ -562,7 +562,6 @@
   "nametagcosmetic_disabled": "تم تعطيل علامة الاسم الخاصة بك ، لديك الآن علامتك الحقيقية.",
   "button_fly_enable": "§l§bEnable Fly§r\n§8السماح للطيران في lobby§r",
   "button_fly_disable": "§l§cDisable Fly§r\n§8السماح للطيران في lobby§r",
-  "button_trampoline": "§l§9Trampoline§r\n§8Jump in the lobby.§r",
   "fly_successfully_enabled": "§aتم تفعيل الطيران§r",
   "fly_successfully_disabled": "§aتم تعطيل الطيران.§r",
   "restarting_message": "§bإعادة تشغيل الخادم.§r\n§aسيتم إعادة الاتصال بك في غضون دقيقة!§r",
@@ -718,13 +717,19 @@
   "next_page": "Next Page",
   "last_page": "Last Page",
   "back": "§l§cBack",
-
   "connected_right_now": "§eIs connected right now!",
+
+  "button_trampoline": "§l§9Trampoline§r\n§8Jump in the lobby.§r",
 
   "top_do_es_not_exit": "§cThe top {0} does not exist!",
   "top_cleaned": "§aThe top {0} was cleaned!",
 
-  "mystery_crate_text": "§bMystery Crate \n §c{0} Boxes Available! \n §l§eRIGHT CLICK",
+  "mystery_vault_text": "§bMystery Vault\n§r§c${0} Coins\n§r§l§eRIGHT CLICK",
+  "mystery_vault_error": "§cThere was an error trying to open this vault, please try again in a few minutes or another vault!",
+  "mystery_vault_in_use": "§cThis vault is in use!",
+  "mystery_vault_bought": "§aYou have successfully purchased a mystery vault, it is opening...",
+  "mystery_vault_congratulations": "§aCongratulations! Your prize is §ex{0} §aof §e{1}§a!",
+  "mystery_vault_your_already_open_it": "§cYou are already opening a vault!",
 
   "top_amount_changes": "§aThe top amount of {0} has been changed to {1}!",
 

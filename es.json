@@ -709,7 +709,12 @@
   "top_do_es_not_exit": "§c¡El top {0} no existe!",
   "top_cleaned": "§a¡El top {0} fue limpiado!",
 
-  "mystery_crate_text": "§bCaja misteriosa \n §c{0} Cajas Disponibles! \n §l§eCLIC DERECHO",
+  "mystery_vault_text": "§bBóveda misteriosa\n§r§c${0} Monedas\n§r§l§eCLIC DERECHO",
+  "mystery_vault_error": "§cSe produjo un error al intentar abrir esta bóveda. Vuelva a intentarlo en unos minutos o en otra bóveda.",
+  "mystery_vault_in_use": "§c¡Esta bóveda está en uso!",
+  "mystery_vault_bought": "§aHa comprado con éxito una bóveda misteriosa, se está abriendo...",
+  "mystery_vault_congratulations": "§a¡Felicidades! ¡Su premio es §ex{0} §ade §e{1} §a!",
+  "mystery_vault_your_already_open_it": "§c¡Ya estas abriendo una bóveda!",
 
   "top_amount_changes": "§a¡El monto del top de {0} fue cambiado a {1}!",
 

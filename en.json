@@ -746,7 +746,12 @@
   "top_do_es_not_exit": "§cThe top {0} does not exist!",
   "top_cleaned": "§aThe top {0} was cleaned!",
 
-  "mystery_crate_text": "§bMystery Crate \n §c{0} Boxes Available! \n §l§eRIGHT CLICK",
+  "mystery_vault_text": "§bMystery Vault\n§r§c${0} Coins\n§r§l§eRIGHT CLICK",
+  "mystery_vault_error": "§cThere was an error trying to open this vault, please try again in a few minutes or another vault!",
+  "mystery_vault_in_use": "§cThis vault is in use!",
+  "mystery_vault_bought": "§aYou have successfully purchased a mystery vault, it is opening...",
+  "mystery_vault_congratulations": "§aCongratulations! Your prize is §ex{0} §aof §e{1}§a!",
+  "mystery_vault_your_already_open_it": "§cYou are already opening a vault!",
 
   "top_amount_changes": "§aThe top amount of {0} has been changed to {1}!",
 
