@@ -746,7 +746,7 @@
   "top_do_es_not_exit": "§cThe top {0} does not exist!",
   "top_cleaned": "§aThe top {0} was cleaned!",
 
-  "mystery_vault_text": "§bMystery Vault\n§r§c${0} Coins\n§r§l§eRIGHT CLICK",
+  "mystery_vault_text": "§bMystery Vault§r\n§c${0} Coins§r\n§l§eRIGHT CLICK",
   "mystery_vault_error": "§cThere was an error trying to open this vault, please try again in a few minutes or another vault!",
   "mystery_vault_in_use": "§cThis vault is in use!",
   "mystery_vault_bought": "§aYou have successfully purchased a mystery vault, it is opening...",
@@ -764,7 +764,7 @@
   "you_hid": "§aYou hid the {0} success!",
   "change_server": "§o§7We recommend changing the server to upload the changes...",
 
-  "checkpoint": "§e§lCheckpoint\n§b{0}",
+  "checkpoint": "§e§lCheckpoint§r\n§b{0}",
   "parkour_challenge_start": "§e§lParkour Challenge\n§l§aStart",
   "parkour_challenge_end": "§e§lParkour Challenge\n§l§cEnd",
   "parkour_challenge_finished": "§aCongratulations on completing the parkour! You finished in §e{0}§a! Try again to get an even better record!",

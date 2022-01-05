@@ -709,7 +709,7 @@
   "top_do_es_not_exit": "§c¡El top {0} no existe!",
   "top_cleaned": "§a¡El top {0} fue limpiado!",
 
-  "mystery_vault_text": "§bBóveda misteriosa\n§r§c${0} Monedas\n§r§l§eCLIC DERECHO",
+  "mystery_vault_text": "§bBóveda misteriosa§r\n§c${0} Monedas§r\n§l§eCLIC DERECHO",
   "mystery_vault_error": "§cSe produjo un error al intentar abrir esta bóveda. Vuelva a intentarlo en unos minutos o en otra bóveda.",
   "mystery_vault_in_use": "§c¡Esta bóveda está en uso!",
   "mystery_vault_bought": "§aHa comprado con éxito una bóveda misteriosa, se está abriendo...",
@@ -727,7 +727,7 @@
   "you_hid": "§a¡Ocultó el {0} éxitosamente!",
   "change_server": "§o§7Recomendamos cambiar el servidor para cargar los cambios...",
 
-  "checkpoint": "§e§lControl\n§b{0}",
+  "checkpoint": "§e§lControl§r\n§b{0}",
   "parkour_challenge_end": "§e§lDesafío Parkour\n§l§cFin",
   "parkour_challenge_start": "§e§lDesafío Parkour\n§l§aInicio",
   "parkour_challenge_finished": "§a¡Felicitaciones por completar el parkour! ¡Terminaste en §e{0}§a! ¡Vuelve a intentarlo para obtener un registro aún mejor!",

@@ -720,7 +720,7 @@
   "top_do_es_not_exit": "§cO {0} top não existe!",
   "top_cleaned": "§aO {0} top foi apagado!",
 
-  "mystery_vault_text": "§bCofre misterioso\n§r§c${0} Moedas\n§r§l§eCLIQUE COM O DIREITO",
+  "mystery_vault_text": "§bCofre misterioso§r\n§c${0} Moedas§r\n§l§eCLIQUE COM O DIREITO",
   "mystery_vault_error": "§cOcorreu um erro ao tentar abrir este cofre. Tente novamente em alguns minutos ou em outro cofre.",
   "mystery_vault_in_use": "§cEste cofre está em uso!",
   "mystery_vault_bought": "§aVocê comprou com sucesso um cofre misterioso, ele está se abrindo...",
