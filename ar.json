@@ -719,7 +719,7 @@
   "back": "§l§cBack",
   "connected_right_now": "§eIs connected right now!",
 
-  "button_trampoline": "§l§9Trampoline§r\n§8Jump in the lobby.§r",
+  "button_throwabletntcosmetic": "§l§cThrowable TNT§r",
 
   "top_do_es_not_exit": "§cThe top {0} does not exist!",
   "top_cleaned": "§aThe top {0} was cleaned!",
@@ -753,5 +753,9 @@
   "reset_parkour_checkpoints": "§cYou reset your parkour checkpoints",
   "citem_go_to_the_last_checkpoint": "§r§6Go To The Last Checkpoint\n§7Right Click",
   "citem_exit_parkour": "§r§cExit\n§7Right Click",
-  "citem_go_to_the_start": "§r§dGo to The Start\n§7Right Click"
+  "citem_go_to_the_start": "§r§dGo to The Start\n§7Right Click",
+  "citem_throwabletntcosmetic": "§r§cThrowable TNT\n§7Right Click",
+
+  "wait_cosmetic_item": "§cWait {0} seconds to execute this.§r",
+  "you_can_use_this": "§aYou can use this"
 }

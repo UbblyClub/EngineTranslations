@@ -704,7 +704,7 @@
   "last_page": "Última Página",
   "back": "§l§cRegresar",
   "connected_right_now": "§e¡Esta conectado ahora mismo!",
-  "button_trampoline": "§l§9Trampolin§r\n§8Salta en el lobby.§r",
+  "button_throwabletntcosmetic": "§l§cTNT Lanzable§r",
 
   "top_do_es_not_exit": "§c¡El top {0} no existe!",
   "top_cleaned": "§a¡El top {0} fue limpiado!",
@@ -737,5 +737,9 @@
   "reset_parkour_checkpoints": "§cRestableciste tus puntos de control de parkour",
   "citem_go_to_the_last_checkpoint": "§r§6Ir al Ultimo Punto de Control\n§7Clic Derecho",
   "citem_exit_parkour": "§r§cSalir\n§7Clic Derecho",
-  "citem_go_to_the_start": "§r§dIr al Inicio\n§7Clic Derecho"
+  "citem_go_to_the_start": "§r§dIr al Inicio\n§7Clic Derecho",
+  "citem_throwabletntcosmetic": "§r§cTNT Lanzable\n§7Clic Derecho",
+
+  "wait_cosmetic_item": "§cEspera {0} segundos para ejecutar esto.§r",
+  "you_can_use_this": "§aTú puedes usar esto"
 }
