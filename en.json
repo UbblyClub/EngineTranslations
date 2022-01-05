@@ -752,6 +752,7 @@
   "mystery_vault_bought": "§aYou have successfully purchased a mystery vault, it is opening...",
   "mystery_vault_congratulations": "§aCongratulations! Your prize is §ex{0} §aof §e{1}§a!",
   "mystery_vault_your_already_open_it": "§cYou are already opening a vault!",
+  "mystery_vault_refund": "§cYou already have this prize, so we have made you a refund...",
 
   "top_amount_changes": "§aThe top amount of {0} has been changed to {1}!",
 

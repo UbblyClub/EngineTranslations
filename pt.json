@@ -726,6 +726,7 @@
   "mystery_vault_bought": "§aVocê comprou com sucesso um cofre misterioso, ele está se abrindo...",
   "mystery_vault_congratulations": "§aParabéns! Seu prêmio é §ex{0} §ade §e{1} §a!",
   "mystery_vault_your_already_open_it": "§cVocê já está abrindo um cofre!",
+  "mystery_vault_refund": "§cVocê já tem este prêmio, então nós reembolsamos você...",
 
   "top_amount_changes": "§aO valor da parte superior de {0} foi alterado para {1}!",
 

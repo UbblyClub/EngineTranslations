@@ -715,6 +715,7 @@
   "mystery_vault_bought": "§aHa comprado con éxito una bóveda misteriosa, se está abriendo...",
   "mystery_vault_congratulations": "§a¡Felicidades! ¡Su premio es §ex{0} §ade §e{1} §a!",
   "mystery_vault_your_already_open_it": "§c¡Ya estas abriendo una bóveda!",
+  "mystery_vault_refund": "§cYa tienes este premio, así que te hemos hecho un reembolso...",
 
   "top_amount_changes": "§a¡El monto del top de {0} fue cambiado a {1}!",
 
