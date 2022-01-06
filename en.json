@@ -748,5 +748,6 @@
 
   "mystery_crate_text": "§bMystery Crate \n §c{0} Boxes Available! \n §l§eRIGHT CLICK",
 
-  "top_amount_changes": "§aThe top amount of {0} has been changed to {1}!"
+  "top_amount_changes": "§aThe top amount of {0} has been changed to {1}!",
+  "error_connecting": "An error occurred connecting to the server"
 }

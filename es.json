@@ -711,5 +711,6 @@
 
   "mystery_crate_text": "§bCaja misteriosa \n §c{0} Cajas Disponibles! \n §l§eCLIC DERECHO",
 
-  "top_amount_changes": "§a¡El monto del top de {0} fue cambiado a {1}!"
+  "top_amount_changes": "§a¡El monto del top de {0} fue cambiado a {1}!",
+  "error_connecting": "Ocurrió un error al conectarse al servidor"
 }
