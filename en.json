@@ -740,14 +740,43 @@
   "last_page": "Last Page",
   "back": "§l§cBack",
   "connected_right_now": "§eIs connected right now!",
-  
-  "button_trampoline": "§l§9Trampoline§r\n§8Jump in the lobby.§r",
+
+  "button_throwabletntcosmetic": "§l§cThrowable TNT§r",
 
   "top_do_es_not_exit": "§cThe top {0} does not exist!",
   "top_cleaned": "§aThe top {0} was cleaned!",
 
-  "mystery_crate_text": "§bMystery Crate \n §c{0} Boxes Available! \n §l§eRIGHT CLICK",
+  "mystery_vault_text": "§bMystery Vault§r\n§c${0} Coins§r\n§l§eRIGHT CLICK",
+  "mystery_vault_error": "§cThere was an error trying to open this vault, please try again in a few minutes or another vault!",
+  "mystery_vault_in_use": "§cThis vault is in use!",
+  "mystery_vault_bought": "§aYou have successfully purchased a mystery vault, it is opening...",
+  "mystery_vault_congratulations": "§aCongratulations! Your prize is §ex{0} §aof §e{1}§a!",
+  "mystery_vault_your_already_open_it": "§cYou are already opening a vault!",
+  "mystery_vault_refund": "§cYou already have this prize, so we have made you a refund...",
+
+  "toggle_bossbar": "Toggle Bossbar",
+  "toggle_scoreboard": "Toggle Scoreboard",
+  "toggle_clicks_per_second": "Toggle the CPS counter",
+  "toggle_tells": "Toggle Tells",
+  "toggle_staff_chat": "Toggle Staff Chat",
+  "you_showed": "§aYou showed the {0} success!",
+  "you_hid": "§aYou hid the {0} success!",
+  "change_server": "§o§7We recommend changing the server to upload the changes...",
+
+  "checkpoint": "§e§lCheckpoint§r\n§b{0}",
+  "parkour_challenge_start": "§e§lParkour Challenge\n§l§aStart",
+  "parkour_challenge_end": "§e§lParkour Challenge\n§l§cEnd",
+  "parkour_challenge_finished": "§aCongratulations on completing the parkour! You finished in §e{0}§a! Try again to get an even better record!",
+  "you_reached_parkour_checkpoint": "§bYou reached §eCheckPoint #{0}§a.",
+  "checkpoints_taken": "§bCheckpoints taken §l{0}",
+  "reset_parkour_checkpoints": "§cYou reset your parkour checkpoints",
+  "citem_go_to_the_last_checkpoint": "§r§6Go To The Last Checkpoint\n§7Right Click",
+  "citem_exit_parkour": "§r§cExit\n§7Right Click",
+  "citem_go_to_the_start": "§r§dGo to The Start\n§7Right Click",
+  "citem_throwabletntcosmetic": "§r§cThrowable TNT\n§7Right Click",
 
   "top_amount_changes": "§aThe top amount of {0} has been changed to {1}!",
-  "error_connecting": "An error occurred connecting to the server"
+  "error_connecting": "An error occurred connecting to the server",
+  "wait_cosmetic_item": "§cWait {0} seconds to execute this.§r",
+  "you_can_use_this": "§aYou can use this"
 }

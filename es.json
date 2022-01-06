@@ -704,13 +704,43 @@
   "last_page": "Última Página",
   "back": "§l§cRegresar",
   "connected_right_now": "§e¡Esta conectado ahora mismo!",
-  "button_trampoline": "§l§9Trampolin§r\n§8Salta en el lobby.§r",
+  "button_throwabletntcosmetic": "§l§cTNT Lanzable§r",
 
   "top_do_es_not_exit": "§c¡El top {0} no existe!",
   "top_cleaned": "§a¡El top {0} fue limpiado!",
 
-  "mystery_crate_text": "§bCaja misteriosa \n §c{0} Cajas Disponibles! \n §l§eCLIC DERECHO",
+  "mystery_vault_text": "§bBóveda misteriosa§r\n§c${0} Monedas§r\n§l§eCLIC DERECHO",
+  "mystery_vault_error": "§cSe produjo un error al intentar abrir esta bóveda. Vuelva a intentarlo en unos minutos o en otra bóveda.",
+  "mystery_vault_in_use": "§c¡Esta bóveda está en uso!",
+  "mystery_vault_bought": "§aHa comprado con éxito una bóveda misteriosa, se está abriendo...",
+  "mystery_vault_congratulations": "§a¡Felicidades! ¡Su premio es §ex{0} §ade §e{1} §a!",
+  "mystery_vault_your_already_open_it": "§c¡Ya estas abriendo una bóveda!",
+  "mystery_vault_refund": "§cYa tienes este premio, así que te hemos hecho un reembolso...",
 
   "top_amount_changes": "§a¡El monto del top de {0} fue cambiado a {1}!",
-  "error_connecting": "Ocurrió un error al conectarse al servidor"
+  "error_connecting": "Ocurrió un error al conectarse al servidor",
+
+  "toggle_bossbar": "Maneja la barra jefe",
+  "toggle_scoreboard": "Maneja el marcador",
+  "toggle_clicks_per_second": "Maneja el contador de CPS",
+  "toggle_tells": "Maneja los Tells",
+  "toggle_staff_chat": "Maneja el Chat del Personal",
+  "you_showed": "§a¡Mostró el {0} éxitosamente!",
+  "you_hid": "§a¡Ocultó el {0} éxitosamente!",
+  "change_server": "§o§7Recomendamos cambiar el servidor para cargar los cambios...",
+
+  "checkpoint": "§e§lControl§r\n§b{0}",
+  "parkour_challenge_end": "§e§lDesafío Parkour\n§l§cFin",
+  "parkour_challenge_start": "§e§lDesafío Parkour\n§l§aInicio",
+  "parkour_challenge_finished": "§a¡Felicitaciones por completar el parkour! ¡Terminaste en §e{0}§a! ¡Vuelve a intentarlo para obtener un registro aún mejor!",
+  "you_reached_parkour_checkpoint": "§bLlegó al §ePunto de control #{0}§a.",
+  "checkpoints_taken": "§bPuntos de control tomados §l{0}",
+  "reset_parkour_checkpoints": "§cRestableciste tus puntos de control de parkour",
+  "citem_go_to_the_last_checkpoint": "§r§6Ir al Ultimo Punto de Control\n§7Clic Derecho",
+  "citem_exit_parkour": "§r§cSalir\n§7Clic Derecho",
+  "citem_go_to_the_start": "§r§dIr al Inicio\n§7Clic Derecho",
+  "citem_throwabletntcosmetic": "§r§cTNT Lanzable\n§7Clic Derecho",
+
+  "wait_cosmetic_item": "§cEspera {0} segundos para ejecutar esto.§r",
+  "you_can_use_this": "§aTú puedes usar esto"
 }
