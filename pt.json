@@ -753,5 +753,7 @@
   "citem_throwabletntcosmetic": "§r§cTNT Lançável\n§7Clique com o botão direito",
 
   "wait_cosmetic_item": "§cAguarde {0} segundos para executar isso.§r",
-  "you_can_use_this": "§aVocê pode usar isso"
+  "you_can_use_this": "§aVocê pode usar isso",
+
+  "mystery_vault": "Cofre misterioso"
 }

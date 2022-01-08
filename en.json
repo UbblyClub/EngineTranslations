@@ -746,6 +746,8 @@
   "top_do_es_not_exit": "§cThe top {0} does not exist!",
   "top_cleaned": "§aThe top {0} was cleaned!",
 
+  "mystery_vault": "Mystery Vault",
+
   "mystery_vault_text": "§bMystery Vault§r\n§c${0} Coins§r\n§l§eRIGHT CLICK",
   "mystery_vault_error": "§cThere was an error trying to open this vault, please try again in a few minutes or another vault!",
   "mystery_vault_in_use": "§cThis vault is in use!",

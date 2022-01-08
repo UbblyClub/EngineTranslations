@@ -742,5 +742,7 @@
   "citem_throwabletntcosmetic": "§r§cTNT Lanzable\n§7Clic Derecho",
 
   "wait_cosmetic_item": "§cEspera {0} segundos para ejecutar esto.§r",
-  "you_can_use_this": "§aTú puedes usar esto"
+  "you_can_use_this": "§aTú puedes usar esto",
+
+  "mystery_vault": "Bóveda misteriosa"
 }

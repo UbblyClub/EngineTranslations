@@ -758,5 +758,7 @@
 
   "error_connecting": "An error occurred connecting to the server",
   "wait_cosmetic_item": "§cWait {0} seconds to execute this.§r",
-  "you_can_use_this": "§aYou can use this"
+  "you_can_use_this": "§aYou can use this",
+
+  "mystery_vault": "Mystery Vault"
 }
