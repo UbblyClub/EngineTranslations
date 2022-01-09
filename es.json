@@ -744,5 +744,12 @@
   "wait_cosmetic_item": "§cEspera {0} segundos para ejecutar esto.§r",
   "you_can_use_this": "§aTú puedes usar esto",
 
-  "mystery_vault": "Bóveda misteriosa"
+  "mystery_vault": "Bóveda misteriosa",
+
+  "gameplay": "Juego",
+  "display": "Para mostrar",
+  "staff": "Personal",
+  "toggle_auto_sprint": "Manejar la carrera automática",
+  "you_enabled": "§a¡Has habilitado {0} con éxito!",
+  "you_disabled": "§a¡Has deshabilitado {0} con éxito!"
 }

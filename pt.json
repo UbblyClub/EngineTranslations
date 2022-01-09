@@ -755,5 +755,12 @@
   "wait_cosmetic_item": "§cAguarde {0} segundos para executar isso.§r",
   "you_can_use_this": "§aVocê pode usar isso",
 
-  "mystery_vault": "Cofre misterioso"
+  "mystery_vault": "Cofre misterioso",
+
+  "gameplay": "Jogabilidade",
+  "display": "Exibição",
+  "staff": "Funcionários",
+  "toggle_auto_sprint": "Lidar com a corrida automática",
+  "you_enabled": "§aVocê ativou {0} com sucesso!",
+  "you_disabled": "§aVocê desativou {0} com sucesso!"
 }

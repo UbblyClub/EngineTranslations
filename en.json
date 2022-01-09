@@ -780,5 +780,12 @@
   "top_amount_changes": "§aThe top amount of {0} has been changed to {1}!",
   "error_connecting": "An error occurred connecting to the server",
   "wait_cosmetic_item": "§cWait {0} seconds to execute this.§r",
-  "you_can_use_this": "§aYou can use this"
+  "you_can_use_this": "§aYou can use this",
+
+  "gameplay": "Gameplay",
+  "display": "Display",
+  "staff": "Staff",
+  "toggle_auto_sprint": "Toggle Auto Sprint",
+  "you_enabled": "§aYou have enabled {0} successfully!",
+  "you_disabled": "§aYou have disabled {0} successfully!"
 }
