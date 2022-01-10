@@ -751,5 +751,9 @@
   "staff": "Personal",
   "toggle_auto_sprint": "Manejar la carrera automática",
   "you_enabled": "§a¡Has habilitado {0} con éxito!",
-  "you_disabled": "§a¡Has deshabilitado {0} con éxito!"
+  "you_disabled": "§a¡Has deshabilitado {0} con éxito!",
+  "cosmetic_slot_no_empty": "§cYa tiene un artículo cosmético agregado a su inventario, desactívelo para activar este.",
+
+  "citem_teleportbowcosmetic": "§r§aArco de teletransporte\n§7Clic Derecho",
+  "button_teleportbowcosmetic": "§l§aArco de teletransporte§r"
 }

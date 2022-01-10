@@ -787,5 +787,9 @@
   "staff": "Staff",
   "toggle_auto_sprint": "Toggle Auto Sprint",
   "you_enabled": "§aYou have enabled {0} successfully!",
-  "you_disabled": "§aYou have disabled {0} successfully!"
+  "you_disabled": "§aYou have disabled {0} successfully!",
+  "cosmetic_slot_no_empty": "§cYou already have a cosmetic item added to your inventory, please deactivate it to activate this",
+
+  "citem_teleportbowcosmetic": "§r§aTeleport Bow\n§7Right Click",
+  "button_teleportbowcosmetic": "§l§aTeleport Bow§r"
 }

@@ -762,5 +762,9 @@
   "staff": "Funcionários",
   "toggle_auto_sprint": "Lidar com a corrida automática",
   "you_enabled": "§aVocê ativou {0} com sucesso!",
-  "you_disabled": "§aVocê desativou {0} com sucesso!"
+  "you_disabled": "§aVocê desativou {0} com sucesso!",
+  "cosmetic_slot_no_empty": "§cVocê já tem um item cosmético adicionado ao seu inventário, desative-o para ativar isso",
+
+  "citem_teleportbowcosmetic": "§r§aArco de Teletransporte\n§7Clique com o botão direito",
+  "button_teleportbowcosmetic": "§l§aArco de Teletransporte§r"
 }
