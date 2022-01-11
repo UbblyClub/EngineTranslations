@@ -755,5 +755,11 @@
   "cosmetic_slot_no_empty": "§cYa tiene un artículo cosmético agregado a su inventario, desactívelo para activar este.",
 
   "citem_teleportbowcosmetic": "§r§aArco de teletransporte\n§7Clic Derecho",
-  "button_teleportbowcosmetic": "§l§aArco de teletransporte§r"
+  "button_teleportbowcosmetic": "§l§aArco de teletransporte§r",
+
+  "citem_stormbreakercosmetic": "§r§9Rompetormentas\n§7Clic Derecho",
+  "button_stormbreakercosmetic": "§l§9Rompetormentas§r",
+
+  "citem_throwablefireballcosmetic": "§r§6Bola de fuego arrojable\n§7Clic Derecho",
+  "button_throwablefireballcosmetic": "§l§6Bola de fuego arrojable§r"
 }

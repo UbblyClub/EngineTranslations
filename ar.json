@@ -771,5 +771,11 @@
   "cosmetic_slot_no_empty": "§cYou already have a cosmetic item added to your inventory, please deactivate it to activate this",
 
   "citem_teleportbowcosmetic": "§r§aTeleport Bow\n§7Right Click",
-  "button_teleportbowcosmetic": "§l§aTeleport Bow§r"
+  "button_teleportbowcosmetic": "§l§aTeleport Bow§r",
+
+  "citem_stormbreakercosmetic": "§r§9Stormbreaker\n§7Right Click",
+  "button_stormbreakercosmetic": "§l§9Stormbreaker§r",
+
+  "citem_throwablefireballcosmetic": "§r§6Throwable Fireball\n§7Right Click",
+  "button_throwablefireballcosmetic": "§l§6Throwable Fireball§r"
 }

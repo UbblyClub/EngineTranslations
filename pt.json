@@ -766,5 +766,11 @@
   "cosmetic_slot_no_empty": "§cVocê já tem um item cosmético adicionado ao seu inventário, desative-o para ativar isso",
 
   "citem_teleportbowcosmetic": "§r§aArco de Teletransporte\n§7Clique com o botão direito",
-  "button_teleportbowcosmetic": "§l§aArco de Teletransporte§r"
+  "button_teleportbowcosmetic": "§l§aArco de Teletransporte§r",
+
+  "citem_stormbreakercosmetic": "§r§9Rompe-Tempestades\n§7Clique com o botão direito",
+  "button_stormbreakercosmetic": "§l§9Rompe-Tempestades§r",
+
+  "citem_throwablefireballcosmetic": "§r§6Bola de fogo arremessável\n§7Clique com o botão direito",
+  "button_throwablefireballcosmetic": "§l§6Bola de fogo arremessável§r"
 }
