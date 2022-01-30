@@ -772,5 +772,7 @@
   "button_stormbreakercosmetic": "§l§9Rompe-Tempestades§r",
 
   "citem_throwablefireballcosmetic": "§r§6Bola de fogo arremessável\n§7Clique com o botão direito",
-  "button_throwablefireballcosmetic": "§l§6Bola de fogo arremessável§r"
+  "button_throwablefireballcosmetic": "§l§6Bola de fogo arremessável§r",
+
+  "offline": "§4DESLIGADO"
 }

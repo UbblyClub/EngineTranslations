@@ -761,5 +761,7 @@
   "button_stormbreakercosmetic": "§l§9Rompetormentas§r",
 
   "citem_throwablefireballcosmetic": "§r§6Bola de fuego arrojable\n§7Clic Derecho",
-  "button_throwablefireballcosmetic": "§l§6Bola de fuego arrojable§r"
+  "button_throwablefireballcosmetic": "§l§6Bola de fuego arrojable§r",
+
+  "offline": "§4DESCONECTADO"
 }

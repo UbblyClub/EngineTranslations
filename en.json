@@ -797,5 +797,6 @@
   "button_stormbreakercosmetic": "§l§9Stormbreaker§r",
 
   "citem_throwablefireballcosmetic": "§r§6Throwable Fireball\n§7Right Click",
-  "button_throwablefireballcosmetic": "§l§6Throwable Fireball§r"
+  "button_throwablefireballcosmetic": "§l§6Throwable Fireball§r",
+  "offline": "§4OFFLINE"
 }
