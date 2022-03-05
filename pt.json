@@ -774,5 +774,7 @@
   "citem_throwablefireballcosmetic": "§r§6Bola de fogo arremessável\n§7Clique com o botão direito",
   "button_throwablefireballcosmetic": "§l§6Bola de fogo arremessável§r",
 
-  "offline": "§4DESLIGADO"
+  "offline": "§4DESLIGADO",
+
+  "user_money": "§aMoedas de {0}: ${1}"
 }

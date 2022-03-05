@@ -798,5 +798,7 @@
 
   "citem_throwablefireballcosmetic": "§r§6Throwable Fireball\n§7Right Click",
   "button_throwablefireballcosmetic": "§l§6Throwable Fireball§r",
-  "offline": "§4OFFLINE"
+  "offline": "§4OFFLINE",
+
+  "user_money": "§a{0}'s coins: ${1}"
 }
