@@ -609,7 +609,7 @@
   "cps_count": "§aCPS: {0}§r",
   "citem_nearby_player": "§l§bFechar jogador§r\n§eToque para localizar um jogador próximo.§r",
   "nearby_player": "§aJogador:§f {0}§r §8|§r §6Passos: §f{1}§r",
-  "nearby_track_player": "§aogador:§f {0}§r §8|§r §6Passos: §f{1}§r §8|§r §dCPS: §f{2}§r",
+  "nearby_track_player": "§aogador:§f {0}§r §8|§r §6Passos: §f{1}§r §8|§r §dCPS: §f{2}§r §8|§r §bPing: §f{3}§r",
   "tracking_player": "§aVocê está localizando {0}§r",
   "form_kits_store": "§l§9Kits§r\n§8Comprar/teste kits.§r",
   "kit_not_exists": "§cO kit {0} não existe.§r",
@@ -776,5 +776,9 @@
 
   "offline": "§4DESLIGADO",
 
-  "user_money": "§aMoedas de {0}: ${1}"
+  "user_money": "§aMoedas de {0}: ${1}",
+
+  "user_multi_accounts": "§aVárias contas de {0} ({1})",
+  "user_multi_accounts_builder": "§aVárias contas de {0} ({1}):§r",
+  "staff_info_Toolbox": "Toolbox: "
 }

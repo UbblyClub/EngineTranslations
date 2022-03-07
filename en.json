@@ -635,7 +635,7 @@
   "cps_count": "§aCPS: {0}§r",
   "citem_nearby_player": "§l§bNearby player§r\n§eTap locate a nearby player.§r",
   "nearby_player": "§aPlayer:§f {0}§r §8|§r §6Steps: §f{1}§r",
-  "nearby_track_player": "§aPlayer:§f {0}§r §8|§r §6Steps: §f{1}§r §8|§r §dCPS: §f{2}§r",
+  "nearby_track_player": "§aPlayer:§f {0}§r §8|§r §6Steps: §f{1}§r §8|§r §dCPS: §f{2}§r §8|§r §bPing: §f{3}§r",
   "tracking_player": "§aYou are now tracking {0}§r",
   "form_kits_store": "§l§9Kits§r\n§8Buy/Preview kits.§r",
   "kit_not_exists": "§cKit {0} doesn't exists.§r",
@@ -800,5 +800,9 @@
   "button_throwablefireballcosmetic": "§l§6Throwable Fireball§r",
   "offline": "§4OFFLINE",
 
-  "user_money": "§a{0}'s coins: ${1}"
+  "user_money": "§a{0}'s coins: ${1}",
+
+  "user_multi_accounts": "§a{0}'s Multi accounts ({1})",
+  "user_multi_accounts_builder": "§aMulti accounts ({1}):§r",
+  "staff_info_Toolbox": "Toolbox: "
 }
