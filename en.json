@@ -803,6 +803,6 @@
   "user_money": "§a{0}'s coins: ${1}",
 
   "user_multi_accounts": "§a{0}'s Multi accounts ({1})",
-  "user_multi_accounts_builder": "§aMulti accounts ({1}):§r",
+  "user_multi_accounts_builder": "§aMulti accounts ({0}):§r {1}",
   "staff_info_Toolbox": "Toolbox: "
 }

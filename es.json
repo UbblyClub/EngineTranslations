@@ -768,6 +768,6 @@
   "user_money": "§aMonedas de {0}: ${1}",
 
   "user_multi_accounts": "§aMulti cuentas de {0} ({1})",
-  "user_multi_accounts_builder": "§aMulti cuentas de {0} ({1}):§r",
+  "user_multi_accounts_builder": "§aMulti cuentas ({0}):§r {1}",
   "staff_info_Toolbox": "Toolbox: "
 }

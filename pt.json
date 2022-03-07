@@ -779,6 +779,6 @@
   "user_money": "§aMoedas de {0}: ${1}",
 
   "user_multi_accounts": "§aVárias contas de {0} ({1})",
-  "user_multi_accounts_builder": "§aVárias contas de {0} ({1}):§r",
+  "user_multi_accounts_builder": "§aVárias contas ({0}):§r {1}",
   "staff_info_Toolbox": "Toolbox: "
 }
