@@ -640,7 +640,7 @@
   "last_connection": "§aúltima conexão: §e{0}§r",
   "unfrozen.user": "§aVocê foi descongelado o usuário §7{0}§a!.",
   "frozen.user": "§aVocê congelou o usuário §7{0}§a!.",
-  "unfrozen.refusing.user": "§c{0} foi lançado em ss e foi banido por 30 dias!.",
+  "unfrozen.refusing.user": "§c{0} foi lançado em ss e foi banido por 45 dias!.",
   "no_track_yourself": "§cVocê não pode rastrear a si mesmo!",
   "equipped_cosmetic": "§aVocê equipou a {0}!.§r",
   "disabled_cosmetic": "§cVocê removeu a {0}!.§r",

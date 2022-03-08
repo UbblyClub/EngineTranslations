@@ -644,7 +644,7 @@
   "last_connection": "§aLast connection: §e{0}§r",
   "unfrozen.user": "§aYou has been unfrozen the user §7{0}§a!.",
   "frozen.user": "§aYou has been frozen the user §7{0}§a!.",
-  "unfrozen.refusing.user": "§c{0} has left in ss and has been banned for 30days!.",
+  "unfrozen.refusing.user": "§c{0} has left in ss and has been banned for 45 days!.",
   "no_track_yourself": "§cYou can't track yourself!.",
   "equipped_cosmetic": "§aYou have equipped the {0}!.§r",
   "disabled_cosmetic": "§cYou have disabled the {0}!.§r",

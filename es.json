@@ -630,7 +630,7 @@
   "last_connection": "§aUltima conexión: §e{0}§r",
   "unfrozen.user": "§aHaz descongelado el usuario §7{0}§a!.",
   "frozen.user": "§aHaz congelado el usuario §7{0}§a!.",
-  "unfrozen.refusing.user": "§c{0} se ha salido en ss y ha sido prohibido durante 30 días!.",
+  "unfrozen.refusing.user": "§c{0} se ha salido en ss y ha sido prohibido durante 45 días!.",
   "no_track_yourself": "§c¡No puedes rastrearte a ti mismo!.",
   "equipped_cosmetic": "§aTe has equipado la {0}!.§r",
   "disabled_cosmetic": "§cTe has desequipado la {0}!.§r",
