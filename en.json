@@ -807,5 +807,5 @@
   "staff_info_Toolbox": "Toolbox: ",
 
   "warn_message": "§c[WARN SYSTEM]§a The Staff {0} has warned you for {1}",
-  "sanctions_history": "§aSanctions history of {0}: "
+  "history": "§aHistory of {0}: "
 }
