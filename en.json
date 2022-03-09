@@ -804,5 +804,8 @@
 
   "user_multi_accounts": "§a{0}'s Multi accounts ({1})",
   "user_multi_accounts_builder": "§aMulti accounts ({0}):§r {1}",
-  "staff_info_Toolbox": "Toolbox: "
+  "staff_info_Toolbox": "Toolbox: ",
+
+  "warn_message": "§c[WARN SYSTEM]§a The Staff {0} has warned you for {1}",
+  "sanctions_history": "§aSanctions history of {0}: "
 }
