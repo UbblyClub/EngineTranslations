@@ -263,11 +263,10 @@
   "kit_update_success": "§a تم تحديث المجموعة بشكل صحيح",
   "kit_buy_insufficient_coins": "§c ليس لديك عملات كافية لشراء هذه المجموعة §r\n§aمالك: {0}§r\n§aاسم الطقم: {1}§r\n§6سعر الطقم: {2}§r",
   "kit_buy_success": "§aتهانينا! لقد اشتريت عدة بنجاح§e {0}§a.§r",
-  "citem_navigator": "§l§aNavigator§r\n§eاضغط لفتح navigator menu.§r",
-  "citem_cosmetics": "§l§bCosmetics§r\n§eاضغط لفتح cosmetics menu.§r",
-  "citem_information": "§l§6معلومات§r\n§eاضغط لفتح قائمة المعلومات.§r",
-  "citem_settings": "§l§aالأعدادات§r\n§eاضغط لفتح قائمة الاعدادات.§r",
-  "citem_return_lobby": "§l§eارجاع lobby§r\n§eاضغط للرجوع الى Lobby§r",
+  "citem_navigator": "§r§l§aNavigator§r\n§7اضغط لفتح navigator menu.§r",
+  "citem_cosmetics": "§r§l§bCosmetics§r\n§7اضغط لفتح cosmetics menu.§r",
+  "citem_information": "§r§l§6معلومات§r\n§7اضغط لفتح قائمة المعلومات.§r",
+  "citem_settings": "§r§l§aالأعدادات§r\n§7اضغط لفتح قائمة الاعدادات.§r",
   "citem_leave_skywars": "§l§cخروج SkyWars§r\n§eاضغط للخروج الئ lobby.§r",
   "citem_leave_hungergames": "§l§cخروج HungerGames§r\n§eاضغط للخروج الئ lobby.§r",
   "citem_chest_normal_skywars": "§l§5الصناديق العادية§r\n§eاضغط للتصويت علا الصناديق العادية§r",
@@ -294,10 +293,6 @@
   "citem_cancel_ffa": "§l§bالغاء§r\n§eاضغط للالغاء.§r",
   "citem_editors_ffa": "§l§bمحررين§r\n§eاضغط لاظهار محررين هاذه الساحة§r",
   "citem_editors_duels": "§l§bمحررين§r\n§eاضغط لاظهار محررين هاذه الساحة§r",
-  "citem_user_information": "§l§6User Information§r\n§eTouch a user to view their information.§r",
-  "citem_freeze": "§l§bFreeze user§r\n§eTouch a user to un/freeze.§r",
-  "citem_vanish": "§l§dVanish§r\n§eTap to open a menu to make yourself in/visible.§r",
-  "citem_report": "§l§cReport Manager§r\n§eTouch to open a menu to view and manage reports.§r",
   "arena_need_players": "§cالمباراة تحتاج الى لاعبين§r",
   "apart": "بعيداً",
   "together": "معا",
@@ -423,7 +418,7 @@
   "report_reason_hacks_window": "هكر",
   "report_reason_spam_window": "Spam",
   "report_reason_improper_window": "سلوك غير لائق",
-  "report_sent_message": "§aتم ارسال البلاغ الخاص بك.",
+  "report_sent_message": "§aتم ارسال البلاغ الخاص بك ID {0}",
   "report_sent_message_staff": "§d[REPORT SYSTEM] New report received of {0}, for §7{1} §dwith the reason §a{2}§d, server §a{3}",
   "removeAll_reports": "§c§lRemove All reports§r",
   "report_user_not_found": "§cالمستخدم الذي تم إدخاله غير متصل بالإنترنت.",
@@ -785,5 +780,24 @@
 
   "user_multi_accounts": "§a{0}'s Multi accounts ({1})",
   "user_multi_accounts_builder": "§aMulti accounts ({0}):§r {1}",
-  "staff_info_Toolbox": "Toolbox: "
+  "staff_info_Toolbox": "Toolbox: ",
+
+  "warn_message": "§c[WARN SYSTEM]§a The Staff {0} has warned you for {1}",
+  "history": "§aHistory of {0}: ",
+
+  "report_type_no_valid": "§cThis report type is not valid!",
+
+  "reports_type": "§6Reports §l{0}",
+
+  "report_info": "- §9{0}§r, status: {1}§r, user: {2}, target: {3}, reason: {4}, servername: {5}, date: {6}, staff: §c{7}",
+
+  "citem_user_information": "§r§l§6User Information§r\n§7Touch a user to view their information.§r",
+  "citem_return_lobby": "§r§l§eارجاع lobby§r\n§7اضغط للرجوع الى Lobby§r",
+  "citem_freeze": "§r§l§bFreeze user§r\n§7Touch a user to un/freeze.§r",
+  "citem_vanish": "§r§l§dVanish§r\n§7Tap to  make yourself in/visible.§r",
+  "citem_teleport": "§r§l§cTeleport to user§r\n§7Select the user you want to teleport to.§r",
+  "citem_teleport_random_player": "§r§l§9Teleport to random user§r\n§7Tap to teleport.§r",
+  "citem_tracker_user": "§r§l§2Track user§r\n§7Touch a player to follow him.§r",
+
+  "report_does_not_exist": "§cThis report does not exist!"
 }

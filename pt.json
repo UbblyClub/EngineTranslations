@@ -263,11 +263,10 @@
   "kit_update_success": "§aO kit foi atualizado corretamente",
   "kit_buy_insufficient_coins": "§cVocê não tem moedas suficientes para comprar este kit§r\n§aSuas moedas: {0}§r\n§aKit: {1}§r\n§6Preço: {2}§r",
   "kit_buy_success": "§aParabéns! Você comprou um kit com sucesso§e {0}§a.§r",
-  "citem_navigator": "§l§cNavegador§r\n§eClique para abrir menu de navigator.§r",
-  "citem_cosmetics": "§l§bCosméticos§r\n§eClique para abrir o menu de cosméticos.§r",
-  "citem_information": "§l§6Informações§r\n§eClique para abrir menu de informações.§r",
-  "citem_settings": "§l§aConfigurações§r\n§eClique para abrir o menu de configurações.§r",
-  "citem_return_lobby": "§l§eRetorne ao lobby§r\n§eClique para retornar ao lobby.§r",
+  "citem_navigator": "§r§l§cNavegador§r\n§7Clique para abrir menu de navigator.§r",
+  "citem_cosmetics": "§r§l§bCosméticos§r\n§7Clique para abrir o menu de cosméticos.§r",
+  "citem_information": "§r§l§6Informações§r\n§7Clique para abrir menu de informações.§r",
+  "citem_settings": "§r§l§aConfigurações§r\n§7Clique para abrir o menu de configurações.§r",
   "citem_leave_skywars": "§l§cSair SkyWars§r\n§eClique para retornar ao lobby.§r",
   "citem_leave_hungergames": "§l§cSair HungerGames§r\n§eClique para retornar ao lobby.§r",
   "citem_chest_normal_skywars": "§l§5Baús Normais§r\n§eClique para votar em baús Normal§r",
@@ -294,10 +293,6 @@
   "citem_leave_duels": "§l§cSair Duels§r\n§eClique para retornar ao lobby.§r",
   "citem_cancel_ffa": "§l§bCancelar§r\n§eClique para cancelar este processo.§r",
   "citem_leave_ffa": "§l§cSair FFA§r\n§eClique para retornar ao lobby.§r",
-  "citem_user_information": "§l§6Informação do usuário§r\n§eToque em um usuário para visualizar suas informações.§r",
-  "citem_freeze": "§l§bCongelar usuário§r\n§eToque em um usuário para desfazer/congelar.§r",
-  "citem_vanish": "§l§dDesaparecer§r\n§eToque para abrir um menu e abrir inv/visível.§r",
-  "citem_report": "§l§cGerente de relatórios§r\n§eToque para abrir um menu para visualizar e gerenciar relatórios.§r",
   "arena_need_players": "§cArena necessita de jogadores.§r",
   "apart": "Aparte",
   "together": "Juntos",
@@ -419,7 +414,7 @@
   "report_reason_hacks_window": "Hack",
   "report_reason_spam_window": "Spam",
   "report_reason_improper_window": "Comportamento impróprio",
-  "report_sent_message": "§aSua denúncia foi enviada com sucesso.",
+  "report_sent_message": "§aSua denúncia foi enviada com sucesso, ID: {0}",
   "report_sent_message_staff": "§d[SISTEMA DE RELATÓRIOS] Novo relatório recebido de §7{0}, §da §7{1}§d com o motivo §a{2}§d, servidor §a{3}",
   "removeAll_reports": "§c§lRemover todos os relatórios§r",
   "report_user_not_found": "§cO usuário inserido não está online.",
@@ -780,5 +775,22 @@
 
   "user_multi_accounts": "§aVárias contas de {0} ({1})",
   "user_multi_accounts_builder": "§aVárias contas ({0}):§r {1}",
-  "staff_info_Toolbox": "Toolbox: "
+  "staff_info_Toolbox": "Toolbox: ",
+
+  "warn_message": "§c[WARN SYSTEM]§a A equipe {0} avisou você por {1}",
+  "history": "§aHistórico de {0}: ",
+
+  "reports_type": "§6Relatórios §l{0}",
+  "report_info": "- §9{0}§r, status: {1}§r, usuário: {2}, destino: {3}, motivo: {4}, nome do host: {5}, data: {6}, pessoal: §c{7}",
+
+  "citem_user_information": "§r§l§6Informação do usuário§r\n§7Toque em um usuário para ver suas informações.§r",
+  "citem_return_lobby": "§r§e§lDe volta ao lobby§r\n§7Toque para retornar ao lobby.§r",
+  "citem_freeze": "§r§l§bCongelar usuário§r\n§7Toque em um usuário para descongelar/descongelar.§r",
+  "citem_vanish": "§r§l§dDesaparecer§r\n§7Toque para se tornar visível/aparecer.§r",
+  "citem_teleport": "§r§l§cTeletransporte para o usuário§r\n§7Selecione o usuário para o qual você deseja se teletransportar.§r",
+  "citem_teleport_random_player": "§r§l§9Teleporte para um usuário aleatório§r\n§7Toque para se teletransportar.§r",
+  "citem_tracker_user": "§r§l§2Siga o usuário§r\n§7Toque em um jogador para segui-lo.§r",
+
+  "report_does_not_exist": "§cEste relatório não existe!",
+  "report_type_no_valid": "§cEste tipo de relatório não é válido!"
 }

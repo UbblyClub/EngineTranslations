@@ -179,11 +179,10 @@
   "team_won_arena": "§6El equipo §e{0} §6ganó §e{1}§6 en la arena §e{2}§6.§r",
   "arena_edit_success": "§aArena §e{0}§a modificada exitosamente.§r",
   "chests_refilled": "§aCofres de la arena rellenados.§r",
-  "citem_navigator": "§l§aNavegador§r\n§eToca para ver el navegador.§r",
-  "citem_cosmetics": "§l§bCosmeticos§r\n§eToca para abrir el menu de cosmeticos.§r",
-  "citem_information": "§l§6Informacion§r\n§eToca para abrir el menu de informacion§r",
-  "citem_settings": "§l§aAjustes§r\n§eToca para abrir el menu de ajustes.§r",
-  "citem_return_lobby": "§l§eVolver al lobby§r\n§eToca para volver al lobbu.§r",
+  "citem_navigator": "§r§l§aNavegador§r\n§7Toca para ver el navegador.§r",
+  "citem_cosmetics": "§r§l§bCosmeticos§r\n§7Toca para abrir el menu de cosmeticos.§r",
+  "citem_information": "§r§l§6Informacion§r\n§7Toca para abrir el menu de informacion§r",
+  "citem_settings": "§r§l§aAjustes§r\n§7Toca para abrir el menu de ajustes.§r",
   "citem_leave_skywars": "§l§cSalir de SkyWars§r\n§eToca para volver al lobby.§r",
   "citem_leave_hungergames": "§l§cSalir de HungerGames§r\n§eToca para volver al lobby.§r",
   "citem_chest_normal_skywars": "§l§5Cofres normales§r\n§eToca para votar por cofres normales.§r",
@@ -210,10 +209,6 @@
   "citem_leave_duels": "§l§cSalir de Duels§r\n§eToca para volver al lobby.§r",
   "citem_cancel_ffa": "§l§bCancelar§r\n§eToca para cancelar este proceso.§r",
   "citem_leave_ffa": "§l§cSalir de FFA§r\n§eToca para volver al lobby.§r",
-  "citem_user_information": "§l§6Informacion del usuario§r\n§eToque un usuario para ver su información.§r",
-  "citem_freeze": "§l§bCongelar usuario§r\n§eToque un usuario para des/congelar.§r",
-  "citem_vanish": "§l§dDesaparecer§r\n§eToque para abrir un menú y hacerse inv/visible.§r",
-  "citem_report": "§l§cAdministrador de informes§r\n§eToque para abrir un menú para ver y administrar informes.§r",
   "arena_need_players": "§cLa arena necesita jugadores.§r",
   "worlds_list_protected": "§eMundos con proteccion§r",
   "worlds_list_semi_protected": "§eMundos con semi proteccion§r",
@@ -411,7 +406,7 @@
   "report_reason_hacks_window": "Hacks",
   "report_reason_spam_window": "Spam",
   "report_reason_improper_window": "Comportamiento indebido",
-  "report_sent_message": "§aTu reporte ha sido enviado correctamente.",
+  "report_sent_message": "§aTu reporte ha sido enviado correctamente, ID: {0}",
   "report_sent_message_staff": "§d[SISTEMA DE INFORMES] Nuevo informe recibido de §7{0},§d para §7{1}§d con el motivo §a{2}§d, servidor §a{3}",
   "report_user_not_found": "§cEl usuario ingresado no se encuentra en linea",
   "view_report_title_window": "§3Reporte Recibido",
@@ -769,5 +764,22 @@
 
   "user_multi_accounts": "§aMulti cuentas de {0} ({1})",
   "user_multi_accounts_builder": "§aMulti cuentas ({0}):§r {1}",
-  "staff_info_Toolbox": "Toolbox: "
+  "staff_info_Toolbox": "Toolbox: ",
+
+  "warn_message": "§c[SISTEMA DE ADVERTENCIA]§a El personal {0} te ha advertido por {1}",
+  "history": "§aHistorial de {0}: ",
+
+  "reports_type": "§6Informes §l{0}",
+  "report_info": "- §9{0}§r, estado: {1}§r, usuario: {2}, objetivo: {3}, razon: {4}, nombre del servidor: {5}, fecha: {6}, personal: §c{7}",
+
+  "citem_user_information": "§r§l§6Informacion del usuario§r\n§7Toque un usuario para ver su información.§r",
+  "citem_return_lobby": "§r§e§lVolver al vestíbulo§r\n§7Toque para volver al lobby.§r",
+  "citem_freeze": "§r§l§bCongelar usuario§r\n§7Toque un usuario para descongelar/descongelar.§r",
+  "citem_vanish": "§r§l§dDesaparecer§r\n§7Toca para hacerte visible/aparecer.§r",
+  "citem_teleport": "§r§l§cTeletransportarse al usuario§r\n§7Selecciona al usuario al que quieres teletransportarte.§r",
+  "citem_teleport_random_player": "§r§l§9Teletransportarse a un usuario aleatorio§r\n§7Toca para teletransportarte.§r",
+  "citem_tracker_user": "§r§l§2Seguir al usuario§r\n§7Toca a un jugador para seguirlo.§r",
+
+  "report_does_not_exist": "§c¡Este informe no existe!",
+  "report_type_no_valid": "§c¡Este tipo de informe no es válido!"
 }
