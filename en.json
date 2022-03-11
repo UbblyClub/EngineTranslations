@@ -816,5 +816,8 @@
   "citem_tracker_user": "§r§l§2Track user§r\n§7Touch a player to follow him.§r",
 
   "report_does_not_exist": "§cThis report does not exist!",
-  "report_type_no_valid": "§cThis report type is not valid!"
+  "report_type_no_valid": "§cThis report type is not valid!",
+
+  "staff_info_Model": "Model: ",
+  "staff_info_Control": "Control: "
 }

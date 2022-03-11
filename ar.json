@@ -799,5 +799,8 @@
   "citem_teleport_random_player": "§r§l§9Teleport to random user§r\n§7Tap to teleport.§r",
   "citem_tracker_user": "§r§l§2Track user§r\n§7Touch a player to follow him.§r",
 
-  "report_does_not_exist": "§cThis report does not exist!"
+  "report_does_not_exist": "§cThis report does not exist!",
+
+  "staff_info_Model": "Model: ",
+  "staff_info_Control": "Control: "
 }

@@ -792,5 +792,8 @@
   "citem_tracker_user": "§r§l§2Siga o usuário§r\n§7Toque em um jogador para segui-lo.§r",
 
   "report_does_not_exist": "§cEste relatório não existe!",
-  "report_type_no_valid": "§cEste tipo de relatório não é válido!"
+  "report_type_no_valid": "§cEste tipo de relatório não é válido!",
+
+  "staff_info_Model": "Modelos: ",
+  "staff_info_Control": "Ao controle: "
 }
