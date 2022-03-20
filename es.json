@@ -784,5 +784,7 @@
   "report_type_no_valid": "§c¡Este tipo de informe no es válido!",
 
   "staff_info_Model": "Modelo: ",
-  "staff_info_Control": "Control: "
+  "staff_info_Control": "Control: ",
+
+  "citem_user_play": "§r§l§dJugar§r\n§7Toca para jugar rápidamente.§r"
 }

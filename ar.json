@@ -798,6 +798,7 @@
   "citem_teleport": "§r§l§cTeleport to user§r\n§7Select the user you want to teleport to.§r",
   "citem_teleport_random_player": "§r§l§9Teleport to random user§r\n§7Tap to teleport.§r",
   "citem_tracker_user": "§r§l§2Track user§r\n§7Touch a player to follow him.§r",
+  "citem_user_play": "§r§l§dPlay§r\n§7Tap to play quickly.§r",
 
   "report_does_not_exist": "§cThis report does not exist!",
 
