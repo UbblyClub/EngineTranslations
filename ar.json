@@ -803,5 +803,8 @@
   "report_does_not_exist": "§cThis report does not exist!",
 
   "staff_info_Model": "Model: ",
-  "staff_info_Control": "Control: "
+  "staff_info_Control": "Control: ",
+
+  "citem_explosivesheepcosmetic": "§r§eExplosive Sheep\n§7Right Click",
+  "button_explosivesheepcosmetic": "§l§eExplosive Sheep§r"
 }

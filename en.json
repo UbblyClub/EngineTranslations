@@ -821,5 +821,8 @@
   "staff_info_Model": "Model: ",
   "staff_info_Control": "Control: ",
 
-  "citem_user_play": "§r§l§dPlay§r\n§7Tap to play quickly.§r"
+  "citem_user_play": "§r§l§dPlay§r\n§7Tap to play quickly.§r",
+
+  "citem_explosivesheepcosmetic": "§r§eExplosive Sheep\n§7Right Click",
+  "button_explosivesheepcosmetic": "§l§eExplosive Sheep§r"
 }

@@ -786,5 +786,8 @@
   "staff_info_Model": "Modelo: ",
   "staff_info_Control": "Control: ",
 
-  "citem_user_play": "§r§l§dJugar§r\n§7Toca para jugar rápidamente.§r"
+  "citem_user_play": "§r§l§dJugar§r\n§7Toca para jugar rápidamente.§r",
+
+  "citem_explosivesheepcosmetic": "§r§eOveja explosiva\n§7Clic Derecho",
+  "button_explosivesheepcosmetic": "§l§eOveja explosiva§r"
 }

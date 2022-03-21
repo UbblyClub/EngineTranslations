@@ -796,5 +796,8 @@
 
   "staff_info_Model": "Modelos: ",
   "staff_info_Control": "Ao controle: ",
-  "citem_user_play": "§r§l§dJogar§r\n§7Toque para jogar rapidamente.§r"
+  "citem_user_play": "§r§l§dJogar§r\n§7Toque para jogar rapidamente.§r",
+
+  "citem_explosivesheepcosmetic": "§r§eOvelha Explosiva\n§7Clique com o botão direito",
+  "button_explosivesheepcosmetic": "§l§eOvelha Explosiva§r"
 }
